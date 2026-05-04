@@ -1,0 +1,19 @@
+backend/venv/
+__pycache__/
+*.pyc
+
+# AI models
+*.pt
+*.pkl
+
+# data
+backend/data/
+data/
+
+# images/videos
+*.jpg
+*.png
+*.mp4
+
+# frontend
+node_modules/
