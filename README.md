@@ -68,13 +68,13 @@ Key finding:
 
 ---
 
+
 ## Research Paper
 
-This project has been documented in a research article:
+This project has been documented in a research article.
 
-**Real-Time PPE Detection and Worker Identification on Construction Sites Using YOLOv8 and Face Recognition**
-
----
+📄 Paper:
+[Real-Time PPE Detection and Worker Identification on Construction Sites Using YOLOv8 and Face Recognition](paper/PPE_Article.pdf)
 
 ## Author
 
