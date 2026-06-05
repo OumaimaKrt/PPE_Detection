@@ -57,7 +57,9 @@ This project has been documented in a research article.
 📄 Paper:
 [Real-Time PPE Detection and Worker Identification on Construction Sites Using YOLOv8 and Face Recognition](paper/PPE_Article.pdf)
 
-## Author
+## Authors
 
-**Oumaima Kourchte**
-Master's Student in Data Analytics & Artificial Intelligence
+- Oumaima Kourchte
+- Zineb Lagrida
+
+Master's Students in Data Analytics & Artificial Intelligence
