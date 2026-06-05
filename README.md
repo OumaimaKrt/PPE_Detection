@@ -50,25 +50,6 @@ Key finding:
 
 ---
 
-## System Architecture
-
-![Architecture](screenshots/architecture.png)
-
----
-
-## Screenshots
-
-### PPE Detection
-
-![Detection](screenshots/detection.png)
-
-### Admin Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-
 ## Research Paper
 
 This project has been documented in a research article.
