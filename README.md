@@ -32,7 +32,7 @@ The project was developed as part of a Master's degree in Data Analytics and Art
 - React
 - REST API
 - WebSocket
-- Google Colab (Tesla T4)
+- Google Colab
 
 ---
 
